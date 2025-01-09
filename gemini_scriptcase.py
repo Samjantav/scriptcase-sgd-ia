@@ -10,7 +10,7 @@ import asyncio
 import logging
 
 # Configure the Gemini API
-GEMINI_API_KEY = "AIzaSyCaqOCdgJ8F0Y-LTMiFS8mAzQUHpSeeQkY"
+GEMINI_API_KEY = ""
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Configure the logger
