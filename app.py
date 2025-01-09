@@ -5,11 +5,11 @@ app = Flask(__name__)
 
 # Database connection parameters
 config = {
-    'user': 'dolpenge',
-    'password': 'Dolp2024',
-    'host': '172.16.9.17',
-    'port': 3306,
-    'database': 'DEV'
+    'user': '',
+    'password': '',
+    'host': '',
+    'port': ,
+    'database': ''
 }
 
 # Establish a connection to the database
