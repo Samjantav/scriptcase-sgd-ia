@@ -5,11 +5,11 @@ logging.basicConfig(level=logging.DEBUG)
 
 try:
     connection = mysql.connector.connect(
-        host="172.16.9.17",
-        port=3307,
-        user="dolpenge",
-        password="Dolp2024",
-        database="DEV",
+        host="",
+        port=,
+        user="",
+        password="",
+        database="",
         connect_timeout=30,
         allow_local_infile=True
     )
