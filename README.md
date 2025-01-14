@@ -207,3 +207,9 @@ Implante o chatbot:
 Use serviços como Streamlit Sharing, Heroku ou AWS para disponibilizar o chatbot online.
 
 Com esses passos, você terá um ambiente totalmente configurado para rodar o chatbot integrado com ScriptCase, Google Drive, MariaDB e Gemini API! 🚀
+
+![image](https://github.com/user-attachments/assets/a3303f24-fbba-4db5-a39a-0b6da9f1c25e)
+
+![image](https://github.com/user-attachments/assets/a0fca711-7078-470f-b5cb-f448c815f617)
+
+
